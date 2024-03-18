@@ -1,0 +1,45 @@
+h1{
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding: 20px;
+  position: sticky;
+  top: 0%;
+}
+.sticky{
+  position: sticky;
+  top:0;
+}
+.textarea{
+  width: 700px;
+  height: 50px;
+}
+.textarea2{
+  width: 300px;
+  height: 30px;
+}
+.color3{
+  background-color: rgb(6, 244, 141);
+  color: white;
+}
+/* .border,th,td{
+  border: 2px solid rgb(63, 63, 63);
+
+} */
+.border{
+  border-collapse: collapse;
+}
+.btn{
+  background-color: red;
+  color: white;
+  width: 100px;
+  border: 0px;
+  padding: 10px;
+  font-weight: 300;
+  margin-right: 3px;
+}
+.dflex{
+  display: flex;
+  border-collapse: collapse;
+
+}
